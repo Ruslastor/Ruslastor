@@ -19,6 +19,17 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th><b>Me and my hosting server for one of Telegram Bots, made out of Raspberry Pi 3 and a cooler.</b></th>
+  </tr>
+  <tr>
+    <td><img src="images_me/server.jpeg" width=500 alt='Me and a server'/></td>
+  </tr>
+  <tr>
+    <td><b>Lodz, Poland</b></td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -38,7 +49,7 @@
     <th><b>Eco Arrow 3, Iron Warriors</b></th>
   </tr>
   <tr>
-    <td><img src="images_me/insides.jpg" width=500 alt='Me and a EA2'/></td>
+    <td><img src="images_me/insides.jpg" width=500 alt='Me and a EA3'/></td>
   </tr>
   <tr>
     <td><b>Krosno, Poland</b></td>
@@ -50,7 +61,7 @@
     <th><b>Me and my university PCB project</b></th>
   </tr>
   <tr>
-    <td><img src="images_me/university project.jpg" width=500 alt='Me and a EA2'/></td>
+    <td><img src="images_me/university project.jpg" width=500 alt='Me and a PCB project'/></td>
   </tr>
   <tr>
     <td><b>Warsaw, Poland</b></td>
