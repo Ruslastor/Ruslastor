@@ -7,5 +7,22 @@
 
 -   My Hobbies: making games, telegram bots and energy safe bolids
 
-Me and an Electrical Bolid EA2 from Iron Warriors team, on competition in France, Albi< Albi Eco Race:
-<img src="images_me/bolid.jpg" width=300 alt='Me and a EA2'/>
+
+
+<table>
+  <tr>
+    <th><b>Me and an Electrical Bolid EA2 from Iron Warriors team, on competition: </b></th>
+  </tr>
+  <tr>
+    <td><img src="images_me/bolid.jpg" width=300 alt='Me and a EA2'/></td>
+  </tr>
+  <tr>
+    <td><b>France, Albi< Albi Eco Race 2023:</b></td>
+  </tr>
+</table>
+
+
+
+
+
+Me
