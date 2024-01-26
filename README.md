@@ -48,4 +48,14 @@
   </tr>
 </table>
 
-Me
+<table>
+  <tr>
+    <th><b>Me and my university PCB project</b></th>
+  </tr>
+  <tr>
+    <td><img src="images_me/university project.jpg" width=500 alt='Me and a EA2'/></td>
+  </tr>
+  <tr>
+    <td><b>Warsaw, Poland</b></td>
+  </tr>
+</table>
