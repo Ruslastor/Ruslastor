@@ -5,7 +5,7 @@
 - 🏊‍♂️ My Hobbies: making games, telegram bots and energy-safe bolids
 
 
-<h1>My Photo Album</h1>
+<h1>My Small Photo Album</h1>
 
 <table>
   <tr>
