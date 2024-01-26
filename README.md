@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Ruslastor
 - 👀 I’m interested in Embedded Software engineering
-- 🌱 I’m currently learning STM32 Register programming
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me?
+- 🌱 I’m currently learning STM32 Register Programming
 - ⚡ Fun fact: I'm 20 years old
-
--   My Hobbies: making games, telegram bots and energy safe bolids
+- 🏊‍♂️ My Hobbies: making games, telegram bots and energy-safe bolids
 
 
 <h1>My Photo Album</h1>
