@@ -18,12 +18,34 @@
     <td><img src="images_me/bolid.jpg" width=500 alt='Me and a EA2'/></td>
   </tr>
   <tr>
-    <td><b>France, Albi< Albi Eco Race 2023</b></td>
+    <td><b>France, Albi, Albi Eco Race 2023</b></td>
   </tr>
 </table>
 
 
+<table>
+  <tr>
+    <th><b>Me presenting a boiled for a students</b></th>
+  </tr>
+  <tr>
+    <td><img src="images_me/team.jpg" width=500 alt='Me and a EA2'/></td>
+  </tr>
+  <tr>
+    <td><b>Lodz, Poland</b></td>
+  </tr>
+</table>
 
 
+<table>
+  <tr>
+    <th><b>Eco Arrow 3, Iron Warriors</b></th>
+  </tr>
+  <tr>
+    <td><img src="images_me/insides.jpg" width=500 alt='Me and a EA2'/></td>
+  </tr>
+  <tr>
+    <td><b>Krosno, Poland</b></td>
+  </tr>
+</table>
 
 Me
