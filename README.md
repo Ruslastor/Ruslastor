@@ -21,7 +21,8 @@
 
 <table>
   <tr>
-    <th><b>Me and my hosting server for one of Telegram Bots, made out of Raspberry Pi 3 and a cooler.</b></th>
+    <th><b>Me and my hosting server for one of Telegram Bots, 
+      made out of Raspberry Pi 3 and a cooler.</b></th>
   </tr>
   <tr>
     <td><img src="images_me/server.jpeg" width=500 alt='Me and a server'/></td>
