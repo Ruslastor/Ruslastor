@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruslastor
-- 👀 I’m interested in Embedded Software engineering
+- 👀 I’m an Embedded Engineer
 - 🌱 I’m currently learning STM32 Register Programming
 
 <h1>My Small Photo Album</h1>
@@ -56,14 +56,4 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th><b>Me and my university PCB project</b></th>
-  </tr>
-  <tr>
-    <td><img src="images_me/university project.jpg" width=500 alt='Me and a PCB project'/></td>
-  </tr>
-  <tr>
-    <td><b>Warsaw, Poland</b></td>
-  </tr>
-</table>
+
