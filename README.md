@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Ruslastor
 - 👀 I’m interested in Embedded Software engineering
 - 🌱 I’m currently learning STM32 Register Programming
-- ⚡ Fun fact: I'm 21 years old
-- 🏊‍♂️ My Hobbies: making games, telegram bots and energy-safe bolids
-
 
 <h1>My Small Photo Album</h1>
 
@@ -36,7 +33,7 @@
 
 <table>
   <tr>
-    <th><b>Me presenting a boiled for a students</b></th>
+    <th><b>Me presenting a bolid for students as an Electronic team leader.</b></th>
   </tr>
   <tr>
     <td><img src="images_me/team.jpg" width=500 alt='Me and a EA2'/></td>
@@ -49,7 +46,7 @@
 
 <table>
   <tr>
-    <th><b>Eco Arrow 3, Iron Warriors</b></th>
+    <th><b>Eco Arrow 3 bolid, Iron Warriors</b></th>
   </tr>
   <tr>
     <td><img src="images_me/insides.jpg" width=500 alt='Me and a EA3'/></td>
