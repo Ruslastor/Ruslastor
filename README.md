@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruslastor
 - 👀 I’m an Embedded Engineer
-- 🌱 I’m currently learning STM32 Register Programming
+- 🌱 I’m working in Lear Corporation Poland
 
 <h1>My Small Photo Album</h1>
 
